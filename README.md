@@ -1,0 +1,2 @@
+# aljunaidtech_tasks
+ This project is a simple and responsive HTML and CSS webpage that demonstrates the fundamentals of web development. It includes an elegant design with a computer-themed background, stylish typography, and interactive elements. A beautifully designed responsive login form with a gradient background, creative layout, and animated input fields. This project provides an aesthetic and interactive user experience, making authentication screens more engaging.
