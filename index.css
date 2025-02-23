@@ -1,0 +1,54 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+/* Adding a semi-transparent background for readability */
+.content {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    border-radius: 15px;
+    display: inline-block;
+    box-shadow: 0px 0px 15px rgba(29, 245, 22, 0.2);
+}
+
+/* Heading Styling */
+h1 {
+    font-size: 42px;
+    text-shadow: 3px 3px 10px rgba(255, 255, 255, 0.8);
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Styling the Image */
+img {
+    width: 320px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(255, 255, 255, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+/* Styling the Hyperlink */
+a {
+    color: #ffeb3b;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: #f44336;
+    text-decoration: underline;
+}
